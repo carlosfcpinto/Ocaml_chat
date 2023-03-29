@@ -1,0 +1,4 @@
+(executable
+ (public_name test_task)
+ (name main)
+ (libraries test_task lwt.unix logs logs.lwt logs.fmt))

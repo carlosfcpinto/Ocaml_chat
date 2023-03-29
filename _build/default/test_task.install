@@ -1,0 +1,10 @@
+lib: [
+  "_build/install/default/lib/test_task/META"
+  "_build/install/default/lib/test_task/dune-package"
+]
+bin: [
+  "_build/install/default/bin/test_task"
+]
+doc: [
+  "_build/install/default/doc/test_task/README.md"
+]

@@ -17,4 +17,3 @@ Should be built using the command
 `mode` can be either `client` or `server`.
 If `client` is selected, a prompt is encountered to input an address of type `127.0.0.1:8800` or simply a port, `8800`.
 `server` mode uses port `8800` by default.
-# Ocaml_chat

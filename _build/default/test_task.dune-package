@@ -1,0 +1,4 @@
+(lang dune 3.7)
+(name test_task)
+(sections (lib .) (bin ../../bin) (doc ../../doc/test_task))
+(files (lib (META dune-package)) (bin (test_task)) (doc (README.md)))
